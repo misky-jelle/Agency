@@ -1,0 +1,279 @@
+body{
+    padding: 0%;
+    margin:0%;
+   background-color: aliceblue;
+}
+h2{
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav ul li {
+
+    outline: none;
+    list-style: none;
+    display: inline;
+    padding-left: 40px;
+    font-size: 30px;
+    margin-left: 25px;
+    margin-left: 10%;
+   
+}
+.column{
+    display: flex;
+    justify-content: center;
+}
+.column1{
+    width: 50%;
+    align-items: center;
+}
+.column2{
+    width: 50%;
+    align-items: center;
+}
+.container4{
+       background-color: rgb(241, 236, 236);
+   }
+   
+      .contact{
+    font-size:50px;
+   }
+   h4{
+       font-size: 20px;
+   }
+button{
+    background-color:grey ;
+    color: whitesmoke;
+    padding: 10px;
+    width: 180px;
+ margin-top: 10px;
+    font-size: 20px;
+    border: none;  
+    border-radius: 50px;
+}
+h1{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+h6{
+    font-size: 20px;
+  
+}
+.input{
+    border-radius: 5%;
+}
+.fa-camera{
+    font-size: 50px;
+    color: orange;
+    padding-left: 30px;
+}
+.fa-twitter-square{
+    font-size: 40px;
+    padding-left: 30px;
+    color: green;
+}
+p{
+    font-size: 25px;
+}
+
+.table{
+font-size: 30px;
+}
+.fa-slack{
+    margin-top: 5%;
+    font-size: 40px;
+}
+.fa-globe{
+    font-size: 40px;
+    margin-right: 40px;
+}
+.fa-windows{
+    font-size: 40px;
+}
+.zooVer{
+    
+    font-size: 40px; 
+}
+.container{
+    background-color: rgb(238, 224, 226);
+    margin-right: 5%;
+    margin-left: 5%;
+    
+}
+ .container2{
+    font-size: 50px;
+   
+
+} 
+.box{
+    display: flex;
+}
+.box1{ 
+    margin-left: 5%;
+}
+.box2{ 
+    margin-left: 30%;
+}
+.box3{ 
+    margin-left: 30%;
+}
+.table{
+display: flex; 
+}
+.table1{ 
+    margin-left: 1px; 
+    font-size: 40px;
+  
+}
+.table2{ 
+    margin-left: 1px;
+    margin-right: 2px;
+    padding: 2%;
+} 
+.table3{ 
+    margin-left: 3px;
+    font-size: 40px;
+ 
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    padding: 3%;
+}
+.slack{
+    margin-left: 1%;
+    color: gray;
+    
+}
+.prudential{
+    margin-left: 20%;
+    color: gray;
+}
+.microsoft{
+    margin-left: 20%;
+    color: gray;
+}
+.zoover{
+    margin-left: 20%;
+    color: gray;
+}
+.par h1{
+    margin-left: 40%;
+}
+.sign{
+    margin-left: 40%
+}
+.last h2{
+    margin-left: 30%
+    
+}
+.info button{
+    background-color:rgb(51, 211, 211);
+    color: whitesmoke;
+    padding: 10px;
+    width: 20%;
+ margin-top: 10px;
+    font-size: 30px;
+    border: none;  
+    border-radius: 50px;
+    margin-left: 10%
+}
+
+.info2{
+    padding: 10px;
+    width: 40%;
+    font-size: 30px;
+    margin-left: 10%;
+    }
+.info3{
+    padding: 10px;
+    width: 40%;
+    font-size: 40px;
+    margin-left: 10%;
+}
+   .info1{
+       margin-left: 40%;
+       margin-top: -15%;
+       width: 40%;
+       border-radius: 50%;
+}
+
+
+.lastp img{
+border-radius: 60%;
+width:400px;
+margin-top: 5%;
+margin-left: 10%;
+
+
+}
+.lastp{
+    display: flex;
+}
+.font{
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.font span{
+    font-size: 50px;
+    border-radius: 55%;
+    background-color: aqua;
+}
+.font span1{
+    font-size: 50px;
+    border-radius: 55%; 
+    background-color: blue;
+}
+.font span2{
+    font-size: 50px;
+    background-color: yellow;
+    border-radius: 55%; 
+}
+.head{
+    display: flex;
+    margin-top: 5%;
+}
+.container1{
+    display: flex;
+
+}
+.head button{
+    height: 80px;
+    width: 200px;
+    position: relative;
+    left: 300px;
+} 
+
+.containerf{
+    background-color: blue;
+    margin-left: 50%;
+    width: 30px;
+    font-size: 25px;
+}
+.sentence{
+    margin-left: 42%;
+}
+.container3{
+    background-color: rgb(238, 247, 247);
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.subscribe{
+    border-radius: 10px;
+    padding: 15px 40px;
+    background-color: rgba(0,163,172,255);
+    color: rgb(253, 252, 252);
+    font-size: 15px;
+    text-decoration: none;
+    border: none;
+    margin-left: -25.8%;
+    }
+    .em{
+        width: 40.7vw;
+        height:10.2vh ;
+        border-radius: 8px;
+        border: none;
+        font-size: medium;
+        background-color: #14A18F;
+    }
